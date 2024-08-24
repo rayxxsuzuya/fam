@@ -98,6 +98,7 @@ html {
 
 .hero {
   background: #000 url(../img/hero-bg2x.webp) no-repeat center / cover;
+  background-position: right;
   padding-bottom: 101px;
 }
 
